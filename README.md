@@ -114,18 +114,3 @@ i) the Latin name of the plant that has the word ‘Eyed’ in its name (you mus
 j) the exact output (ordered by Category and then by Name):
 
 ![pic4.png](pics/pic4.png)
-
-# Rubric 
-
-```
-+5	database, tables, and SQL file have the names suggested, comments were added on the SQL file, including the name of the student(s)
-+5	table Zones creation
-+5	table Zones population
-+5	table Deliveries creation
-+5	table Deliveries population
-+10	table FlowersInfo creation
-+5	table FlowersInfo population 
-+25	queries a, b, d, e, and i, +5 each 
-+35	+7 for the other queries
--5 failed to identify the names of the project's participants
-```
